@@ -1,4 +1,4 @@
-# hello-world-ruta-pear [![Build Status](https://travis-ci.com/cgaege/hello-world-ruta-pear.svg?branch=master)](https://travis-ci.com/cgaege/hello-world-ruta-pear)
+# hello-world-ruta-pear [![Build Status](https://travis-ci.com/averbis/hello-world-ruta-pear.svg?branch=master)](https://travis-ci.com/averbis/hello-world-ruta-pear)
 
 An Apache UIMA Hello World Annotator written in RUTA bundled as a PEAR package
 
